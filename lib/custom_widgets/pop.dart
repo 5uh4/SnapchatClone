@@ -16,7 +16,7 @@ class Popular extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10),
               image: Imagenes
-                  .popImagenes[(index + 5) % Imagenes.popImagenes.length],
+                  .popImagenes[(index + 6) % Imagenes.popImagenes.length],
             ),
             child: Padding(
               padding: const EdgeInsets.all(10),

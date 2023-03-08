@@ -129,7 +129,7 @@ class _MainScreenState extends State<MainScreen> {
                           Padding(
                             padding: EdgeInsets.fromLTRB(0, 4, 0, 4),
                             child: Text(
-                              ' La temperatura alta de hoy es de 44º con bajas de 39º',
+                              ' La temperatura alta de hoy es de 1129º con bajas de -32º',
                               style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 13,

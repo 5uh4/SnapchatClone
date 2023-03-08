@@ -7,6 +7,7 @@ class Imagenes {
     DecorationImage(image: AssetImage('assets/subs3.jpg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/subs4.jpg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/subs5.jpg'), fit: BoxFit.cover),
+    DecorationImage(image: AssetImage('assets/subs6.jpg'), fit: BoxFit.cover),
   ];
   static const List<DecorationImage> popImagenes = [
     DecorationImage(image: AssetImage('assets/pop1.jpg'), fit: BoxFit.cover),
@@ -14,6 +15,7 @@ class Imagenes {
     DecorationImage(image: AssetImage('assets/pop3.jpeg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/pop4.jpg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/pop5.jpg'), fit: BoxFit.cover),
+    DecorationImage(image: AssetImage('assets/pop6.jpg'), fit: BoxFit.cover),
   ];
   static const List<DecorationImage> trendingImagenes = [
     DecorationImage(image: AssetImage('assets/trend1.jpg'), fit: BoxFit.cover),
@@ -21,5 +23,6 @@ class Imagenes {
     DecorationImage(image: AssetImage('assets/trend3.jpg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/trend4.jpg'), fit: BoxFit.cover),
     DecorationImage(image: AssetImage('assets/trend5.jpg'), fit: BoxFit.cover),
+    DecorationImage(image: AssetImage('assets/trend6.jpg'), fit: BoxFit.cover),
   ];
 }

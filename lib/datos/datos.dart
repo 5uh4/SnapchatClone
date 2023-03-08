@@ -7,6 +7,7 @@ class Datos {
     Articulos('Homemade remedies for that hangover'),
     Articulos('Friday at the Mosque: what to wear'),
     Articulos('Dwayne \'The Rock\' Johnson has surprised everyone'),
+    Articulos('UFO sighting in Velez, Málaga during a Rave'),
   ];
 
   static List<Articulos> trendingTopics = [
@@ -15,6 +16,7 @@ class Datos {
     Articulos('What you need to know for Gotham Knight\'s premiere'),
     Articulos('Oscars 2023: all the deets'),
     Articulos('The Last Of Us shocks fans'),
+    Articulos('You will never guess who does alcohol enemas'),
   ];
 
   static List<Articulos> popular = [
@@ -23,5 +25,6 @@ class Datos {
     Articulos('Kim Kardashian buys Marilyn Monroe\'s dress?!'),
     Articulos('First look at Ana de Armas and Chris Evans in Ghosted'),
     Articulos('Joe Biden reinstates Military Draft: Deepfake'),
+    Articulos('5 gay slangs you NEED to know'),
   ];
 }

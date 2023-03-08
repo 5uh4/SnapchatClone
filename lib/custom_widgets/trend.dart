@@ -16,7 +16,7 @@ class Trend extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10),
               image: Imagenes.trendingImagenes[
-                  (index + 5) % Imagenes.trendingImagenes.length],
+                  (index + 6) % Imagenes.trendingImagenes.length],
             ),
             child: Padding(
               padding: const EdgeInsets.all(10),

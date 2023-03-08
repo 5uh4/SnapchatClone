@@ -16,7 +16,7 @@ class Sub extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10),
               image: Imagenes
-                  .subImagenes[(index + 5) % Imagenes.subImagenes.length],
+                  .subImagenes[(index + 6) % Imagenes.subImagenes.length],
             ),
             child: Padding(
               padding: const EdgeInsets.all(10),
